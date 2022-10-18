@@ -2,7 +2,7 @@ header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqd9veG0ncekDF-66PeEX6SgV4rcDVAKz1rexTLlk6RxvbN-4Rg7wcEnn_ErPhYdaQL34&usqp=CAU");
+/*     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqd9veG0ncekDF-66PeEX6SgV4rcDVAKz1rexTLlk6RxvbN-4Rg7wcEnn_ErPhYdaQL34&usqp=CAU"); */
     /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEHFuI-QsG7V2QgmlV2e5HXH3K640VuVxkG7bzrWFDqSeT5o5wMelHQG-p6j_snKcnzQ&usqp=CAU"); */
     background-size: cover;
     /* background-repeat: no-repeat; */
