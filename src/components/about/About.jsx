@@ -18,7 +18,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Fresher</small>
+              <small>2 Years as ReactJs Developer</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
