@@ -3,8 +3,8 @@ import "./portfolio.css";
 import Img1 from "../../assets/portfolio1.jpeg";
 import Img2 from "../../assets/portfolio2.jpeg";
 import Img3 from "../../assets/portfolio3.jpeg";
-import Img4 from "../../assets/portfolio4.jpeg";
-import Img5 from "../../assets/portfolio2.jpeg";
+import Img4 from "../../assets/portfolio5.jpeg";
+import Img5 from "../../assets/portfolio6.jpeg";
 import Img6 from "../../assets/portfolio4.jpeg";
 
 const Portfolio = () => {
