@@ -16,21 +16,21 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text__light">80%</small>
+                <small className="text__light">100%</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text__light">Intermediate</small>
+                <small className="text__light">100%</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text__light">70%</small>
+                <small className="text__light">100%</small>
               </div>
             </article>
             
@@ -38,7 +38,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text__light">80%</small>
+                <small className="text__light">100%</small>
               </div>
             </article>
           </div>
@@ -57,7 +57,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>MangoDB</h4>
-                <small className="text__light">Basic</small>
+                <small className="text__light">Intermediate</small>
               </div>
             </article>
             
@@ -72,7 +72,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Java</h4>
-                <small className="text__light">60%</small>
+                <small className="text__light">Basic</small>
               </div>
             </article>
           </div>
