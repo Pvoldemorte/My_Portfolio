@@ -5,7 +5,7 @@ import Img2 from "../../assets/portfolio2.jpeg";
 import Img3 from "../../assets/portfolio3.jpeg";
 import Img4 from "../../assets/portfolio4.jpeg";
 import Img5 from "../../assets/portfolio2.jpeg";
-import Img6 from "../../assets/portfolio3.jpeg";
+import Img6 from "../../assets/portfolio4.jpeg";
 
 const Portfolio = () => {
 
@@ -34,16 +34,16 @@ const Portfolio = () => {
     {
       id:4,
       image:Img4,
-      title:"This is a protfolio item title",
-      github:"https://github.com",
+      title:"This is a test-app",
+      github:"https://github.com/Pvoldemorte",
       demo:"https://dribbble.com"
     },
     {
       id:5,
       image:Img5,
-      title:"This is a protfolio item title",
-      github:"https://github.com",
-      demo:"https://dribbble.com"
+      title:"This is a Add_to_cart Project",
+      github:"https://github.com/Pvoldemorte",
+      demo:"https://csb-4tmuvc.netlify.app/"
     },
     {
       id:6,
